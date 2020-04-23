@@ -1,0 +1,75 @@
+Header {
+    FormatVersion: 5
+    Source: "Blender 2.81.16 (hash: f1aa4d18d49d), SCS Blender Tools: 2.0.dd0ff0b"
+    Type: "Model"
+    Name: "vehicle_chromium_wled"
+}
+Global {
+    VertexCount: 4
+    TriangleCount: 2
+    MaterialCount: 1
+    PieceCount: 1
+    PartCount: 1
+    BoneCount: 0
+    LocatorCount: 0
+    Skeleton: "vehicle_chromium_wled.pis"
+    PieceSkinCount: 0
+}
+Material {
+    Index: 0
+    Alias: "jumbo_wled.003"
+    Effect: "eut2.flare"
+}
+Piece {
+    Index: 0
+    Material: 0
+    VertexCount: 4
+    TriangleCount: 2
+    StreamCount: 4
+    Stream {
+        Format: FLOAT3
+        Tag: "_POSITION"
+        0    ( &3e2147ae  &be2147ae  &330b03c0 )
+        1    ( &be2147ae  &3e2147ae  &b30b03c0 )
+        2    ( &be2147ae  &be2147ae  &b396e914 )
+        3    ( &3e2147ae  &3e2147ae  &3396e914 )
+    }
+    Stream {
+        Format: FLOAT3
+        Tag: "_NORMAL"
+        0    ( &b4aeef4c  &b401361a  &3f800000 )
+        1    ( &b4aeef4c  &b401361a  &3f800000 )
+        2    ( &b4aeef4c  &b401361b  &3f800000 )
+        3    ( &b4aeef4c  &b401361b  &3f800000 )
+    }
+    Stream {
+        Format: FLOAT2
+        Tag: "_UV0"
+        AliasCount: 1
+        Aliases: "_TEXCOORD0"
+        0    ( &3f9427af  &3f9427af )
+        1    ( &be213d7a  &be213d78 )
+        2    ( &be213d7a  &3f9427af )
+        3    ( &3f9427af  &be213d78 )
+    }
+    Stream {
+        Format: FLOAT4
+        Tag: "_RGBA"
+        0    ( &3f808081  &3f808081  &3f808081  &3f7efeff )
+        1    ( &3f808081  &3f808081  &3f808081  &3f7efeff )
+        2    ( &3f808081  &3f808081  &3f808081  &3f7efeff )
+        3    ( &3f808081  &3f808081  &3f808081  &3f7efeff )
+    }
+    Triangles {
+        0    ( 2     1     0 )
+        1    ( 1     3     0 )
+    }
+}
+Part {
+    Name: "defaultpart"
+    PieceCount: 1
+    LocatorCount: 0
+    Pieces: 0
+    Locators:
+}
+

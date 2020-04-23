@@ -1,0 +1,116 @@
+accessory_hookup_data : hellachr1.addon_hookup
+{
+	name: "Hella chromium chrome"
+	price: 550
+	icon: "light_rounded_chrome"
+	model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_ang.pmd"
+	variant: "chr"
+	suitable_for[]: "r_grill"
+	suitable_for[]: "b_grill"
+	suitable_for[]: "f_grill"
+	unlock: 1
+}
+
+accessory_hookup_data : hellachr2.addon_hookup
+{
+    name: "Hella chromium painted"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_ang.pmd"
+    variant: "pnt"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
+
+accessory_hookup_data : hellachr3.addon_hookup
+{
+    name: "Hella chromium plastic"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_ang.pmd"
+    variant: "mat"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
+
+accessory_hookup_data : hellachr4.addon_hookup
+{
+    name: "Hella chromium chrome blue"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_blue.pmd"
+    variant: "chr_b"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
+
+accessory_hookup_data : hellachr5.addon_hookup
+{
+    name: "Hella chromium painted blue"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_blue.pmd"
+    variant: "pnt_b"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
+
+accessory_hookup_data : hellachr6.addon_hookup
+{
+    name: "Hella chromium plastic blue"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_blue.pmd"
+    variant: "mat_b"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
+
+accessory_hookup_data : hellachr7.addon_hookup
+{
+    name: "Hella chromium plastic led"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_led.pmd"
+    variant: "mat_led"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
+
+accessory_hookup_data : hellachr8.addon_hookup
+{
+    name: "Hella chromium painted led"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_led.pmd"
+    variant: "pnt_led"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
+
+accessory_hookup_data : hellachr9.addon_hookup
+{
+    name: "Hella chromium chrome led"
+    price: 550
+    icon: "light_rounded_chrome"
+    model: "/vehicle/truck/upgrade/light/hella/50k_hella_chromium_led.pmd"
+    variant: "chr_led"
+    suitable_for[]: "r_grill"
+    suitable_for[]: "b_grill"
+    suitable_for[]: "f_grill"
+    unlock: 1
+}
