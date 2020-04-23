@@ -11,7 +11,7 @@ Steam Workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=1153
 50keda's Hella Chromium lamp rework from 50k_addons mod.
 Mod contains 9 lamp version.
 
-![Image of mod](https://raw.githubusercontent.com/davidzoli/ets2_mod_hella_chromium_variants/master/workshop-files/hella_chromium_pnt_plt_chr.jpg?token=AARMB6MSDEQSHL7O7MJYRCC6UFK7M)
+![Image of mod](https://github.com/davidzoli/ets2_mod_hella_chromium_variants/blob/master/workshop-files/hella_chromium_pnt_plt_chr.jpg?raw=true)
 
 Housing materials for all versions:
 - Chrome
