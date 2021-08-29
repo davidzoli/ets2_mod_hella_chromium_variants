@@ -14,7 +14,7 @@
 #
 Header {
     FormatVersion: 1
-    Source: "Blender 2.81.16 (hash: f1aa4d18d49d), SCS Blender Tools: 2.0.dd0ff0b"
+    Source: "Blender 2.90.0 (hash: 0330d1af29c0), SCS Blender Tools: 2.1.6a6b38a4"
     Type: "Trait"
     Name: "50k_hella_chromium_blue"
 }
@@ -30,7 +30,7 @@ Look {
         Alias: "mat_0000_glass_ex.001"
         Effect: "eut2.glass"
         Flags: 0
-        AttributeCount: 9
+        AttributeCount: 8
         TextureCount: 2
         Attribute {
             Format: FLOAT3
@@ -51,11 +51,6 @@ Look {
             Format: FLOAT
             Tag: "add_ambient"
             Value: ( 0.0 )
-        }
-        Attribute {
-            Format: FLOAT3
-            Tag: "env_factor"
-            Value: ( 1.0 1.0 1.0 )
         }
         Attribute {
             Format: FLOAT2
@@ -264,7 +259,7 @@ Look {
         }
         Texture {
             Tag: "texture[1]:texture_mask"
-            Value: "/vehicle/truck/upgrade/light/hella/50k_hella"
+            Value: "/vehicle/truck/upgrade/light/hella/50k_hella_mask"
         }
         Texture {
             Tag: "texture[2]:texture_reflection"
